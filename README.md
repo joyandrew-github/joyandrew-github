@@ -122,8 +122,8 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**, **C
 ## 🔭 Highlights
 
 - 🎥 Building **CodeCradle** — Instagram & Telegram for sharing real-time coding projects.
-- 🌍 Fluent in **English**, **Tamil**, basic **German**.
-- ✨ Love **mentoring**, **organizing events**, and growing with the tech community.
+- 🌍 Fluent in **English**, **Tamil**
+- ✨ Love **Leadership**, **organizing events**, and growing with the tech community.
 
 ---
 
