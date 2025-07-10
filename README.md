@@ -42,18 +42,17 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**, **C
   <a href="https://leetcode.com/u/user5788Ci/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode">
   </a>
-  <a href="https://codeforces.com/profile/joyandrew05" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
-  </a>
-  <a href="https://www.hackerrank.com/joyandrew05" target="_blank">
+
+  <a href="https://www.hackerrank.com/profile/joyandrew006" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
-  <a href="https://www.codechef.com/users/joyandrew05" target="_blank">
+  <a href="https://www.codechef.com/users/joyandrews" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
 </div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/joyandrew05?theme=dark&font=baloo&extension=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/user5788Ci?theme=dark&font=baloo&extension=heatmap)
+
 
 ---
 
@@ -66,6 +65,7 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**, **C
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyandrew-github&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=joyandrew-github&theme=radical)
+
 
 ---
 
