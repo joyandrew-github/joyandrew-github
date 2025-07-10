@@ -34,7 +34,7 @@ I enjoy contributing to **open source**, creating **coding content** as **CodeCr
 
 ## 💻 Competitive Programming
 
-I love challenges and problem-solving! I regularly practice on **LeetCode**, **Codeforces**, **HackerRank**, and **CodeChef** to stay sharp.
+I love challenges and problem-solving! I regularly practice on **LeetCode**,**HackerRank**, and **CodeChef** to stay sharp.
 
 ### 🏆 Profiles
 
