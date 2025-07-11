@@ -74,7 +74,7 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 - 🥇 **EduViz** — 1st Place @ Mini Project Expo, Project Expo *Vihansa*  
 - 🥇 **Shophify** — 1st Place @ Project-Based Learning (Web Dev, Django)  
 - 🥈 **NammaSpot** — Runner-Up (College Level) + ₹5000 cash prize  
-- 📈 **Stacky Sparks Team** — Top scorer with 95/100
+- 📈 **Stacky Sparks Team** 
 
 ---
 
