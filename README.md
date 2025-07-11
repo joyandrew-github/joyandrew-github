@@ -39,7 +39,7 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 ### 🏆 Profiles
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://leetcode.com/u/user5788Ci/" target="_blank">
+  <a href="https://leetcode.com/u/Joyandrew/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode">
   </a>
 
