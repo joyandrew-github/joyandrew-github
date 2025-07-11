@@ -67,8 +67,6 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyandrew-github&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=joyandrew-github&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
 
 
 
