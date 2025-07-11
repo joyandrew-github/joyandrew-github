@@ -51,7 +51,8 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
   </a>
 </div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/user5788Ci?theme=dark&font=baloo&extension=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Joyandrew?theme=dark&font=baloo&extension=heatmap)
+
 
 
 
