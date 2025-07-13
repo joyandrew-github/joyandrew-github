@@ -68,13 +68,18 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 
 
 ---
+## 🏆 **Achievements**
 
-## 🏆 Achievements
+<div align="center">
+  <img src="https://img.shields.io/badge/EduViz-1st%20Place%20@%20Mini%20Project%20Expo,%20Vihansa-00C853?style=for-the-badge&logo=github&logoColor=white" alt="EduViz Achievement"/>
+  <br>
+  <img src="https://img.shields.io/badge/Shophify-1st%20Place%20@%20Project-Based%20Learning-2962FF?style=for-the-badge&logo=django&logoColor=white" alt="Shophify Achievement"/>
+  <br>
+  <img src="https://img.shields.io/badge/NammaSpot-Runner-Up%20College%20Level%20+%20%E2%82%B95000%20Cash%20Prize-FFD600?style=for-the-badge&logo=google-pay&logoColor=black" alt="NammaSpot Achievement"/>
+  <br>
+  <img src="https://img.shields.io/badge/Stacky%20Sparks%20Team-Project%20Expo%20Winners-8E24AA?style=for-the-badge&logo=teams&logoColor=white" alt="Stacky Sparks Team"/>
+</div>
 
-- 🥇 **EduViz** — 1st Place @ Mini Project Expo, Project Expo *Vihansa*  
-- 🥇 **Shophify** — 1st Place @ Project-Based Learning (Web Dev, Django)  
-- 🥈 **NammaSpot** — Runner-Up (College Level) + ₹5000 cash prize  
-- 📈 **Stacky Sparks Team** 
 
 ---
 
