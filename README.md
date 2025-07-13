@@ -65,7 +65,7 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyandrew-github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyandrew-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
-## 🌟 **Featured Projects**
+🌟 **Featured Projects**
 
 <div align="center">
   <table>
@@ -125,7 +125,7 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
       <td>1st Place</td>
       <td>Mini Project Expo, Vihansa</td>
            <td>₹2000 Cash Prize</td>
-      <td>—</td>
+
     </tr>
     <tr>
       <td><strong>Shophify</strong></td>
