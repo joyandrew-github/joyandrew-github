@@ -119,6 +119,12 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 
 </p>
 
+### **Cloud & Deployment**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,aws" />
+</p>
+
+
 ---
 
 ## 🔭 Highlights
