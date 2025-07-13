@@ -86,6 +86,7 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
       <td><strong>EduViz</strong></td>
       <td>1st Place</td>
       <td>Mini Project Expo, Vihansa</td>
+           <td>₹2000 Cash Prize</td>
       <td>—</td>
     </tr>
     <tr>
