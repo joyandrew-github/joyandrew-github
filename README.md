@@ -73,7 +73,7 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
       <td width="50%">
         <h3 align="center">🎓 EduViz</h3>
         <div align="center">
-          <a href="https://github.com/joyandrew-github/EduViz" target="_blank">
+          <a href="https://github.com/joyandrew-github/EduViz-Frontend" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=joyandrew-github&repo=EduViz&theme=tokyonight&hide_border=true&bg_color=0D1117" />
           </a>
           <br><br>
@@ -88,7 +88,7 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
       <td width="50%">
         <h3 align="center">🚗 NammaSpot</h3>
         <div align="center">
-          <a href="https://github.com/joyandrew-github/NammaSpot" target="_blank">
+          <a href="https://github.com/joyandrew-github/Nammaspot-backend" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=joyandrew-github&repo=NammaSpot&theme=tokyonight&hide_border=true&bg_color=0D1117" />
           </a>
           <br><br>
