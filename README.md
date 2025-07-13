@@ -119,10 +119,26 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 
 </p>
 
-### **Cloud & Deployment**
+---
+
+### **☁️ Cloud & Deployment**
+
+<p align="center" style="display: flex; gap: 15px;">
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  </a>
+  <a href="https://www.netlify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,aws" />
 </p>
+
 
 
 ---
