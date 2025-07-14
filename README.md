@@ -109,46 +109,15 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 ## 🏆 **Achievements**
 
 <div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th>🏅 Project</th>
-      <th>🥇 Rank</th>
-      <th>📍 Event</th>
-      <th>💰 Prize</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>EduViz</strong></td>
-      <td>1st Place</td>
-      <td>Mini Project Expo, Vihansa</td>
-           <td>₹2000 Cash Prize</td>
-
-    </tr>
-    <tr>
-      <td><strong>Shophify</strong></td>
-      <td>1st Place</td>
-      <td>Project-Based Learning (Web Dev, Django)</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td><strong>NammaSpot</strong></td>
-      <td>Runner-Up</td>
-      <td>College Level</td>
-      <td>₹5000 Cash Prize</td>
-    </tr>
-    <tr>
-      <td><strong>Stacky Sparks Team</strong></td>
-      <td>1st Place</td>
-      <td>IT Dept. Mini Project Expo</td>
-      <td>—</td>
-    </tr>
-  </tbody>
-</table>
-
+  <img src="https://img.shields.io/badge/EduViz-1st%20Place%20@%20Mini%20Project%20Expo,%20Vihansa-00C853?style=for-the-badge&logo=github&logoColor=white" alt="EduViz Achievement"/>
+  <br>
+  <img src="https://img.shields.io/badge/Shophify-1st%20Place%20@%20Project-Based%20Learning-2962FF?style=for-the-badge&logo=django&logoColor=white" alt="Shophify Achievement"/>
+  <br>
+  <img src="https://img.shields.io/badge/NammaSpot-Runner-Up%20College%20Level%20+%20%E2%82%B95000%20Cash%20Prize-FFD600?style=for-the-badge&logo=google-pay&logoColor=black" alt="NammaSpot Achievement"/>
+  <br>
+  <img src="https://img.shields.io/badge/Stacky%20Sparks%20Team-Project%20Expo%20Winners-8E24AA?style=for-the-badge&logo=teams&logoColor=white" alt="Stacky Sparks Team"/>
 </div>
+
 
 
 ---
