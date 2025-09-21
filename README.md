@@ -1,332 +1,283 @@
-<p align="center">
-  <img src="./github-header-image.png" alt="Header">
-</p>
+# 🌟 Joy Andrew | Full Stack Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Builder;Django+Expert;Open+Source+Contributor;Competitive+Programmer;Tech+Content+Creator" alt="Typing Animation" />
-</p>
+<div align="center">
 
-<h1 align="center">
-  Let's Connect and Build Together! 🚀
-</h1>
+![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Joy%20Andrew&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Creator&descAlignY=55&descSize=18)
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://joyandrew.live/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/joyandrew-s-b450322a9/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-  </a>
-  <a href="https://www.instagram.com/joyandrew05">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  </a>
-</p>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=🚀+Full+Stack+Developer;⚡+MERN+Stack+Expert;🐍+Django+Specialist;🏆+Competitive+Programmer;📱+Open+Source+Contributor;🎥+Tech+Content+Creator)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/🌐_Website-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://joyandrew.live/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyandrew-s-b450322a9/)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joyandrew05)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hey there! I’m **Joy Andrew**, a **passionate Full Stack Developer** who loves to craft user-centric web applications and solve real-world problems using **Python, Django, MERN Stack**, and modern tech.  
-I thrive on building projects like **EduViz**, **NammaSpot**, and **Shophify**, blending creativity with robust engineering.  
-I enjoy contributing to **open source**, creating **coding content** as **CodeCradle**, and sharing knowledge to inspire budding devs.
 
----
-
-## 💻 Competitive Programming
-
-I love challenges and problem-solving! I regularly practice on **LeetCode**,**HackerRank**,**SkillRack** and **CodeChef** to stay sharp.
-
-### 🏆 Profiles
-
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://leetcode.com/u/Joyandrew/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode">
-  </a>
-
-  <a href="https://www.hackerrank.com/profile/joyandrew006" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a>
-  <a href="https://www.codechef.com/users/joyandrews" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
-  </a>
-</div>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Joyandrew?theme=dark&font=baloo&extension=heatmap)
-
-
-
-
-
----
-
-## 🌟 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyandrew-github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyandrew-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-🌟 **Featured Projects**
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎓 EduViz</h3>
-        <div align="center">
-          <a href="https://github.com/joyandrew-github/EduViz-Frontend" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=joyandrew-github&repo=EduViz&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-          </a>
-          <br><br>
-          <p>
-            <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-            <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
-            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-          </p>
-          <p><strong>Interactive 3D learning platform for engineering, physics, and medical education using Three.js & React.</strong></p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🚗 NammaSpot</h3>
-        <div align="center">
-          <a href="https://github.com/joyandrew-github/Nammaspot-backend" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=joyandrew-github&repo=NammaSpot&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-          </a>
-          <br><br>
-          <p>
-            <img src="https://img.shields.io/badge/IoT-0082C9?style=flat-square&logo=raspberry-pi&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-          </p>
-          <p><strong>Smart Parking System that solves real-world parking challenges with sensors and real-time slot tracking.</strong></p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
----
-# 🏆 **Achievements & Recognition**
-
-<div align="center">
+const joyAndrew = {
+  name: "Joy Andrew",
+  role: "Full Stack Developer",
+  location: "India 🇮🇳",
   
-  <!-- Achievement Stats -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/🏆_Total_Wins-3-gold?style=for-the-badge&labelColor=1e1e2e&color=f9e2af" alt="Total Wins"/>
-    <img src="https://img.shields.io/badge/🥈_Runner--Up-1-silver?style=for-the-badge&labelColor=1e1e2e&color=a6adc8" alt="Runner-up"/>
-    <img src="https://img.shields.io/badge/💰_Prize_Money-₹5000-green?style=for-the-badge&labelColor=1e1e2e&color=a6e3a1" alt="Prize Money"/>
-  </div>
+  passions: [
+    "Building user-centric web applications",
+    "Solving real-world problems with code",
+    "Contributing to open source projects",
+    "Creating educational content as CodeCradle"
+  ],
+  
+  currentFocus: "Crafting scalable solutions with MERN & Django",
+  lifePhilosophy: "Code with purpose, build with passion! 🚀"
+};
 
-  <!-- Main Achievement Table -->
-  <table style="width: 100%; border-collapse: collapse; margin: 20px 0; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-    <thead>
-      <tr style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px);">
-        <th style="padding: 20px; color: #ffffff; font-weight: 600; text-align: left; border-bottom: 2px solid rgba(255,255,255,0.2);">
-          <div style="display: flex; align-items: center; gap: 10px;">
-            🚀 <span>Project</span>
-          </div>
-        </th>
-        <th style="padding: 20px; color: #ffffff; font-weight: 600; text-align: center; border-bottom: 2px solid rgba(255,255,255,0.2);">
-          <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-            🏅 <span>Achievement</span>
-          </div>
-        </th>
-        <th style="padding: 20px; color: #ffffff; font-weight: 600; text-align: left; border-bottom: 2px solid rgba(255,255,255,0.2);">
-          <div style="display: flex; align-items: center; gap: 10px;">
-            📍 <span>Event</span>
-          </div>
-        </th>
-        <th style="padding: 20px; color: #ffffff; font-weight: 600; text-align: center; border-bottom: 2px solid rgba(255,255,255,0.2);">
-          <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-            💰 <span>Prize</span>
-          </div>
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="background: rgba(255,255,255,0.05); border-bottom: 1px solid rgba(255,255,255,0.1);">
-        <td style="padding: 20px; color: #ffffff;">
-          <div style="display: flex; align-items: center; gap: 12px;">
-            <div style="width: 40px; height: 40px; background: linear-gradient(45deg, #ff6b6b, #ee5a24); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 18px;">📚</div>
-            <div>
-              <div style="font-weight: 600; font-size: 16px;">EduViz</div>
-              <div style="font-size: 12px; opacity: 0.8;">Educational Visualization</div>
-            </div>
-          </div>
-        </td>
-        <td style="padding: 20px; text-align: center;">
-          <div style="display: inline-block; background: linear-gradient(45deg, #ffd700, #ffed4e); color: #000; padding: 8px 16px; border-radius: 20px; font-weight: 600; font-size: 14px;">
-            🥇 1st Place
-          </div>
-        </td>
-        <td style="padding: 20px; color: #ffffff;">
-          <div style="font-weight: 500;">Mini Project Expo</div>
-          <div style="font-size: 12px; opacity: 0.8;">Vihansa</div>
-        </td>
-        <td style="padding: 20px; text-align: center; color: #ffffff;">
-          <div style="font-size: 18px;">🏆</div>
-          <div style="font-size: 12px; opacity: 0.8;">Recognition</div>
-        </td>
-      </tr>
-      <tr style="background: rgba(255,255,255,0.05); border-bottom: 1px solid rgba(255,255,255,0.1);">
-        <td style="padding: 20px; color: #ffffff;">
-          <div style="display: flex; align-items: center; gap: 12px;">
-            <div style="width: 40px; height: 40px; background: linear-gradient(45deg, #4834d4, #686de0); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 18px;">🛍️</div>
-            <div>
-              <div style="font-weight: 600; font-size: 16px;">Shophify</div>
-              <div style="font-size: 12px; opacity: 0.8;">E-commerce Platform</div>
-            </div>
-          </div>
-        </td>
-        <td style="padding: 20px; text-align: center;">
-          <div style="display: inline-block; background: linear-gradient(45deg, #ffd700, #ffed4e); color: #000; padding: 8px 16px; border-radius: 20px; font-weight: 600; font-size: 14px;">
-            🥇 1st Place
-          </div>
-        </td>
-        <td style="padding: 20px; color: #ffffff;">
-          <div style="font-weight: 500;">Project-Based Learning</div>
-          <div style="font-size: 12px; opacity: 0.8;">Web Development (Django)</div>
-        </td>
-        <td style="padding: 20px; text-align: center; color: #ffffff;">
-          <div style="font-size: 18px;">🏆</div>
-          <div style="font-size: 12px; opacity: 0.8;">Recognition</div>
-        </td>
-      </tr>
-      <tr style="background: rgba(255,255,255,0.05); border-bottom: 1px solid rgba(255,255,255,0.1);">
-        <td style="padding: 20px; color: #ffffff;">
-          <div style="display: flex; align-items: center; gap: 12px;">
-            <div style="width: 40px; height: 40px; background: linear-gradient(45deg, #00d2d3, #54a0ff); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 18px;">📍</div>
-            <div>
-              <div style="font-weight: 600; font-size: 16px;">NammaSpot</div>
-              <div style="font-size: 12px; opacity: 0.8;">Location-based Service</div>
-            </div>
-          </div>
-        </td>
-        <td style="padding: 20px; text-align: center;">
-          <div style="display: inline-block; background: linear-gradient(45deg, #c0c0c0, #e8e8e8); color: #000; padding: 8px 16px; border-radius: 20px; font-weight: 600; font-size: 14px;">
-            🥈 Runner-Up
-          </div>
-        </td>
-        <td style="padding: 20px; color: #ffffff;">
-          <div style="font-weight: 500;">College Level Competition</div>
-          <div style="font-size: 12px; opacity: 0.8;">Technical Event</div>
-        </td>
-        <td style="padding: 20px; text-align: center; color: #ffffff;">
-          <div style="font-size: 18px; color: #4ade80;">💰</div>
-          <div style="font-weight: 600; color: #4ade80;">₹5,000</div>
-        </td>
-      </tr>
-      <tr style="background: rgba(255,255,255,0.05);">
-        <td style="padding: 20px; color: #ffffff;">
-          <div style="display: flex; align-items: center; gap: 12px;">
-            <div style="width: 40px; height: 40px; background: linear-gradient(45deg, #ff9ff3, #f368e0); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 18px;">⚡</div>
-            <div>
-              <div style="font-weight: 600; font-size: 16px;">Stacky Sparks</div>
-              <div style="font-size: 12px; opacity: 0.8;">Team Project</div>
-            </div>
-          </div>
-        </td>
-        <td style="padding: 20px; text-align: center;">
-          <div style="display: inline-block; background: linear-gradient(45deg, #ffd700, #ffed4e); color: #000; padding: 8px 16px; border-radius: 20px; font-weight: 600; font-size: 14px;">
-            🥇 1st Place
-          </div>
-        </td>
-        <td style="padding: 20px; color: #ffffff;">
-          <div style="font-weight: 500;">IT Dept. Mini Project Expo</div>
-          <div style="font-size: 12px; opacity: 0.8;">Department Competition</div>
-        </td>
-        <td style="padding: 20px; text-align: center; color: #ffffff;">
-          <div style="font-size: 18px;">🏆</div>
-          <div style="font-size: 12px; opacity: 0.8;">Recognition</div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
 
-  <!-- Achievement Highlights -->
-  <div style="margin-top: 30px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px 25px; border-radius: 25px; color: white; font-weight: 600; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
-      🎯 <strong>75%</strong> Win Rate
-    </div>
-    <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px 25px; border-radius: 25px; color: white; font-weight: 600; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
-      🔥 <strong>4</strong> Competitions
-    </div>
-    <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px 25px; border-radius: 25px; color: white; font-weight: 600; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
-      💡 <strong>Multi-Domain</strong> Expertise
-    </div>
-  </div>
+<div align="center">
 
-  <!-- Motivational Quote -->
-  <div style="margin-top: 30px; padding: 20px; background: rgba(255,255,255,0.1); border-radius: 15px; border-left: 4px solid #667eea;">
-    <blockquote style="margin: 0; font-style: italic; color: #667eea; font-size: 16px;">
-      "Success is not final, failure is not fatal: it is the courage to continue that counts."
-    </blockquote>
-  </div>
+### 🎯 What Drives Me
+
+*Building tomorrow's solutions with today's technology*
 
 </div>
 
 ---
 
+## 🏆 Achievements Gallery
+
+<div align="center">
+
+![Achievements](https://img.shields.io/badge/🏆_Competition_Wins-3-gold?style=for-the-badge&labelColor=1a1b27&color=f7d794)
+![Runner Up](https://img.shields.io/badge/🥈_Runner--Up-1-silver?style=for-the-badge&labelColor=1a1b27&color=c7ecee)
+![Prize Money](https://img.shields.io/badge/💰_Prize_Won-₹5000-green?style=for-the-badge&labelColor=1a1b27&color=7bed9f)
+
+</div>
+
+| 🚀 Project | 🏅 Achievement | 📍 Event | 💎 Recognition |
+|------------|---------------|----------|----------------|
+| **🎓 EduViz** | 🥇 **1st Place** | Mini Project Expo - Vihansa | Excellence Award |
+| **🛍️ Shophify** | 🥇 **1st Place** | Django Web Development PBL | Top Innovation |
+| **📍 NammaSpot** | 🥈 **Runner-Up** | College Tech Competition | **₹5,000 Prize** |
+| **⚡ Stacky Sparks** | 🥇 **1st Place** | IT Dept Mini Project Expo | Department Champion |
+
+<div align="center">
+
+### 🎯 Success Metrics
+**75% Win Rate** • **4 Competitions** • **Multi-Domain Expertise**
+
+*"Success is not final, failure is not fatal: it is the courage to continue that counts."*
+
+</div>
 
 ---
 
-## 🛠️ Tools
+## 💻 Competitive Programming Arena
 
-<p align="center" style="display: flex; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
-</p>
+<div align="center">
 
-## 📌 Languages
+### 🎮 Battle Grounds
 
-<p align="center" style="display: flex; gap: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
-</p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Joyandrew/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/joyandrew006)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/joyandrews)
 
-## 🚀 Frameworks
+![LeetCode Stats](https://leetcard.jacoblin.cool/Joyandrew?theme=nord&font=source_code_pro&extension=heatmap&border=0&radius=10)
 
-<p align="center" style="display: flex; gap: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/>
-</p>
-
-## 💾 Libraries & Databases
-
-<p align="center" style="display: flex; gap: 15px;">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-
-</p>
+</div>
 
 ---
 
-### **☁️ Cloud & Deployment**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,aws" />
-</p>
+## 🌟 Featured Projects Showcase
 
+<div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🎓 EduViz
+[![EduViz](https://github-readme-stats.vercel.app/api/pin/?username=joyandrew-github&repo=EduViz-Frontend&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149)](https://github.com/joyandrew-github/EduViz-Frontend)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**🏆 1st Place Winner** - Interactive 3D learning platform revolutionizing engineering, physics, and medical education
+
+</td>
+<td width="50%" align="center">
+
+### 🚗 NammaSpot
+[![NammaSpot](https://github-readme-stats.vercel.app/api/pin/?username=joyandrew-github&repo=Nammaspot-backend&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149)](https://github.com/joyandrew-github/Nammaspot-backend)
+
+![IoT](https://img.shields.io/badge/IoT-0082C9?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**🥈 Runner-Up** - Smart Parking System solving real-world urban challenges with IoT sensors
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🔭 Highlights
+## 📊 GitHub Analytics Dashboard
 
-- 🎥 Building **CodeCradle** — Instagram & Telegram for sharing real-time coding projects.
-- 🌍 Fluent in **English**, **Tamil**
-- ✨ Love **Leadership**, **organizing events**, and growing with the tech community.
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyandrew-github&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyandrew-github&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joyandrew-github&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=f85149&fire=f85149&currStreakLabel=58a6ff)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+## ⚡ Tech Arsenal
+
+### 💻 Programming Languages
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+### 🚀 Frameworks & Libraries
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+</div>
+
+### 🎨 Styling & UI
+<div align="center">
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+</div>
+
+### 🗄️ Databases & Storage
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### ☁️ Cloud & Deployment
+<div align="center">
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+### 🛠️ Development Tools
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🔭 Current Adventures
+
+<div align="center">
+
+### 🎯 Active Projects
+
+🎥 **CodeCradle** - Building the next-gen platform for developers to share real-time coding projects on Instagram & Telegram
+
+🌟 **Open Source Contributions** - Contributing to community projects and helping fellow developers
+
+📚 **Continuous Learning** - Exploring new technologies and staying updated with industry trends
+
+</div>
+
+---
+
+## 🌍 Languages & Culture
+
+<div align="center">
+
+![English](https://img.shields.io/badge/English-Fluent-success?style=for-the-badge&logo=google-translate)
+![Tamil](https://img.shields.io/badge/Tamil-Native-success?style=for-the-badge&logo=google-translate)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Joy Andrew's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joyandrew-github&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=f85149&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎯 Fun Facts
+
+<div align="center">
+
+- 🎭 Love **leadership** and organizing tech events
+- 🚀 Passionate about **problem-solving** and **innovation**
+- 🌱 Always **learning** and growing with the tech community
+- ⚡ Believe in **"Code with purpose, build with passion!"**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Build Something Amazing Together!
+
+*"The best way to predict the future is to create it."*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=joyandrew-github&label=Profile%20Views&color=58a6ff&style=for-the-badge)](https://github.com/joyandrew-github)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
+</div>
