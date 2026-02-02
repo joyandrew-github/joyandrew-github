@@ -1,13 +1,18 @@
 <div align="center">
   <pre>
+<span style="color:#8B949E;">
      ██╗ ██████╗ ██╗   ██╗
      ██║██╔═══██╗╚██╗ ██╔╝
+</span><span style="color:#58A6FF;">
      ██║██║   ██║ ╚████╔╝ 
 ██   ██║██║   ██║  ╚██╔╝  
+</span><span style="color:#8B949E;">
 ╚█████╔╝╚██████╔╝   ██║   
  ╚════╝  ╚═════╝    ╚═╝   
+</span>
   </pre>
 </div>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&pause=1000&color=4FD1C5&center=true&vCenter=true&width=750&cursor=true&lines=%F0%9F%91%8B+Hey+I'm+Joyandrew+S;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BC+Freelancer;%F0%9F%8F%86+Competitive+Programmer;%F0%9F%8E%A5+Tech+Content+Creator" alt="Typing Animation" />
 </p>
@@ -67,10 +72,15 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 
 ## 🌟 **GitHub Analytics**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joyandrew-github/joyandrew-github/main/profile-summary-card-output/solarized_dark/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/joyandrew-github/joyandrew-github/main/profile-summary-card-output/solarized_dark/4-productive-time.svg" />
-</p>
+
+[![](https://raw.githubusercontent.com/joyandrew-github/joyandrew-github/main/profile-summary-card-output/cobalt/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/joyandrew-github/joyandrew-github/main/profile-summary-card-output/cobalt/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/joyandrew-github/joyandrew-github/main/profile-summary-card-output/cobalt/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/joyandrew-github/joyandrew-github/main/profile-summary-card-output/cobalt/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/joyandrew-github/joyandrew-github/main/profile-summary-card-output/cobalt/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 
