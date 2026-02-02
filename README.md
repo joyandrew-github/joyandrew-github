@@ -9,11 +9,11 @@
   </pre>
 </div>
 <p align="center">
-  <img src="./assets/coding.gif" alt="Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Builder;Django+Expert;Open+Source+Contributor;Competitive+Programmer;Tech+Content+Creator" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Builder;Django+Expert;Open+Source+Contributor;Competitive+Programmer;Tech+Content+Creator" alt="Typing Animation" />
+  <img src="./assets/coding.gif" alt="Header">
 </p>
 
 <h1 align="center">
