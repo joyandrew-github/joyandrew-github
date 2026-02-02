@@ -29,21 +29,22 @@
 <p align="center">
   <!-- Portfolio (Globe) -->
   <a href="https://joyandrew.live/" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" />
+    <img height="40" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/globe.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- LinkedIn -->
+  <!-- LinkedIn (FIXED) -->
   <a href="https://www.linkedin.com/in/joyandrew-s-b450322a9/" target="_blank">
-    <img height="40" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/joy_xndrew/" target="_blank">
-    <img height="40" src="https://cdn.simpleicons.org/instagram/E4405F" />
+    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" />
   </a>
 </p>
+
 
 
 ---
