@@ -28,15 +28,15 @@
 
 <p align="center">
   <a href="https://joyandrew.live/" target="_blank">
-    <img height="40" src="https://cdn.simpleicons.org/googlechrome/ffffff" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/joyandrew-s-b450322a9/" target="_blank">
-    <img height="40" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/joy_xndrew/" target="_blank">
-    <img height="40" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
