@@ -9,7 +9,7 @@
   </pre>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4FD8&center=true&vCenter=true&width=600&cursor=true&lines=Hey+I+am+Joyandrew;Full+Stack+Developer;Freelancer;Competitive+Programmer;Tech+Content+Creator" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&pause=1000&color=FF4FD8&center=true&vCenter=true&width=700&cursor=true&lines=👋+Hey+I’m+Joyandrew+S;💻+Full+Stack+Developer;🧑‍💼+Freelancer;🏆+Competitive+Programmer;🎥+Tech+Content+Creator" alt="Typing Animation" />
 </p>
 
 <p align="center">
