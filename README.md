@@ -27,27 +27,27 @@
 </h1>
 
 <p align="center">
-  <!-- Portfolio (Globe) -->
+  <!-- Portfolio -->
   <a href="https://joyandrew.live/" target="_blank">
-    <img height="40"
-         style="filter: invert(1);"
-         src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/globe.svg" />
+    <img height="38"
+      src="https://img.icons8.com/ios-filled/100/ffffff/domain.png"
+      alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/joyandrew-s-b450322a9/" target="_blank">
-    <img height="40"
-         style="filter: invert(1);"
-         src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
+    <img height="38"
+      src="https://img.icons8.com/ios-filled/100/ffffff/linkedin.png"
+      alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/joy_xndrew/" target="_blank">
-    <img height="40"
-         style="filter: invert(1);"
-         src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" />
+    <img height="38"
+      src="https://img.icons8.com/ios-filled/100/ffffff/instagram-new.png"
+      alt="Instagram"/>
   </a>
 </p>
 
