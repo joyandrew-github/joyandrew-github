@@ -46,30 +46,20 @@ I believe in creating a 𝐩𝐨𝐬𝐢𝐭𝐢𝐯𝐞 𝐢𝐦𝐩𝐚𝐜�
 
 ---
 
-## 💻 Competitive Programming
+## 🏆 Competitive Programming
 
 I love challenges and problem-solving! I regularly practice on **LeetCode**,**HackerRank**,**SkillRack** and **CodeChef** to stay sharp.
 
-### 🏆 Profiles
+- **Skillrack:** 1000+ problems solved
+- **CodeChef:** 200+ problems solved
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://leetcode.com/u/Joyandrew/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode">
-  </a>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Joyandrew?ext=activity" alt="LeetCode Activity Card" />
+</p>
 
-  <a href="https://www.hackerrank.com/profile/joyandrew006" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a>
-  <a href="https://www.codechef.com/users/joyandrews" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
-  </a>
-</div>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Joyandrew?theme=dark&font=baloo&extension=heatmap)
-
-
-
-
+<p align="center">
+  <img src="https://hackerrank-badges.vercel.app/joyandrew006" alt="HackerRank Badge" />
+</p>
 
 ---
 
