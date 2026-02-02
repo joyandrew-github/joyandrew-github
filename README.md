@@ -83,46 +83,6 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 
 
 
-🌟 **Featured Projects**
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎓 EduViz</h3>
-        <div align="center">
-          <a href="https://github.com/joyandrew-github/EduViz-Frontend" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=joyandrew-github&repo=EduViz&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-          </a>
-          <br><br>
-          <p>
-            <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-            <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
-            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-          </p>
-          <p><strong>Interactive 3D learning platform for engineering, physics, and medical education using Three.js & React.</strong></p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🚗 NammaSpot</h3>
-        <div align="center">
-          <a href="https://github.com/joyandrew-github/Nammaspot-backend" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=joyandrew-github&repo=NammaSpot&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-          </a>
-          <br><br>
-          <p>
-            <img src="https://img.shields.io/badge/IoT-0082C9?style=flat-square&logo=raspberry-pi&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-          </p>
-          <p><strong>Smart Parking System that solves real-world parking challenges with sensors and real-time slot tracking.</strong></p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 ---
 # 🏆 **Achievements & Recognition**
 
