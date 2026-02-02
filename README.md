@@ -272,7 +272,9 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 </div>
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joyandrew-github/joyandrew-github/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
