@@ -33,6 +33,8 @@
 </p>
 
 ---
+<!-- PROFILE VIEWS -->
+![Profile Views](https://komarev.com/ghpvc/?username=joyandrew-github&style=for-the-badge&color=1d2431)
 
 ## 👨‍💻 About Me
 
