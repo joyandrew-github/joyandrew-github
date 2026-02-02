@@ -1,17 +1,16 @@
 <div align="center">
   <pre>
-<span style="color:#8B949E;">
+<font color="#58A6FF">
      ██╗ ██████╗ ██╗   ██╗
      ██║██╔═══██╗╚██╗ ██╔╝
-</span><span style="color:#58A6FF;">
      ██║██║   ██║ ╚████╔╝ 
 ██   ██║██║   ██║  ╚██╔╝  
-</span><span style="color:#8B949E;">
 ╚█████╔╝╚██████╔╝   ██║   
  ╚════╝  ╚═════╝    ╚═╝   
-</span>
+</font>
   </pre>
 </div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&pause=1000&color=4FD1C5&center=true&vCenter=true&width=750&cursor=true&lines=%F0%9F%91%8B+Hey+I'm+Joyandrew+S;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BC+Freelancer;%F0%9F%8F%86+Competitive+Programmer;%F0%9F%8E%A5+Tech+Content+Creator" alt="Typing Animation" />
