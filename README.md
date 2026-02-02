@@ -68,8 +68,10 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 ## 🌟 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joyandrew-github/joyandrew-github/main/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/joyandrew-github/joyandrew-github/main/profile-summary-card-output/solarized_dark/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/joyandrew-github/joyandrew-github/main/profile-summary-card-output/solarized_dark/4-productive-time.svg" />
 </p>
+
 
 
 🌟 **Featured Projects**
