@@ -108,10 +108,10 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/httpie/httpie-icon.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/httpie.svg" width="45"/>
 </p>
 
 ---
@@ -160,7 +160,6 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg" width="45"/>
 </p>
 
 ---
@@ -202,11 +201,19 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 ## ☁️ Cloud & Deployment
 
 <p align="center">
+  <!-- Vercel -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="45"/>
+
+  <!-- Render (PNG – reliable) -->
+  <img src="https://img.icons8.com/ios-filled/100/ffffff/cloud.png" width="45" alt="Render"/>
+
+  <!-- Netlify -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
+
+  <!-- AWS (PNG – official & safe) -->
+  <img src="https://img.icons8.com/color/96/amazon-web-services.png" width="45" alt="AWS"/>
 </p>
+
 
 ---
 
