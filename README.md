@@ -108,7 +108,7 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45"/>
+  <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" width="45" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/httpie.svg" width="45"/>
