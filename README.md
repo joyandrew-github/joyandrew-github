@@ -67,10 +67,11 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 
 ## 🌟 **GitHub Analytics**
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyandrew-github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyandrew-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joyandrew-github/joyandrew-github/main/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
+</p>
+
+
 🌟 **Featured Projects**
 
 <div align="center">
