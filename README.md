@@ -26,17 +26,20 @@
   Let's Connect and Build Together! 🚀
 </h1>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://joyandrew.live/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+<p align="center">
+  <a href="https://joyandrew.live/" target="_blank">
+    <img height="40" src="https://cdn.simpleicons.org/googlechrome/ffffff" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/joyandrew-s-b450322a9/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/joyandrew-s-b450322a9/" target="_blank">
+    <img height="40" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/joy_xndrew/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/joy_xndrew/" target="_blank">
+    <img height="40" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram"/>
   </a>
 </p>
+
 
 ---
 <!-- PROFILE VIEWS -->
