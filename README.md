@@ -27,16 +27,21 @@
 </h1>
 
 <p align="center">
+  <!-- Portfolio (Globe) -->
   <a href="https://joyandrew.live/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+    <img height="40" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/joyandrew-s-b450322a9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img height="40" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Instagram -->
   <a href="https://www.instagram.com/joy_xndrew/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img height="40" src="https://cdn.simpleicons.org/instagram/E4405F" />
   </a>
 </p>
 
