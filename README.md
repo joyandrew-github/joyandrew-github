@@ -103,49 +103,49 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 </p>
 
 ---
+## 🛠️ Tools
 
-<h3 align="center">🛠️ Languages & Tools</h3>
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.icons8.com/color/48/python.png"/>
-  <img src="https://img.icons8.com/color/48/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/typescript.png"/>
-  <img src="https://img.icons8.com/color/48/java.png"/>
-  <img src="https://img.icons8.com/color/48/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/css3.png"/>
+<p align="center" style="display: flex; gap: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 </p>
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.icons8.com/color/48/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/nextjs.png"/>
-  <img src="https://img.icons8.com/color/48/tailwindcss.png"/>
-  <img src="https://img.icons8.com/color/48/framer.png"/>
-  <img src="https://img.icons8.com/color/48/threejs.png"/>
+## 📌 Languages
+
+<p align="center" style="display: flex; gap: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
 </p>
 
-<p align="center">
-  <!-- Backend -->
-  <img src="https://img.icons8.com/color/48/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/express-js.png"/>
-  <img src="https://img.icons8.com/color/48/django.png"/>
-  <img src="https://img.icons8.com/color/48/prisma-orm.png"/>
+## 🚀 Frameworks
+
+<p align="center" style="display: flex; gap: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/>
 </p>
 
-<p align="center">
-  <!-- Databases -->
-  <img src="https://img.icons8.com/color/48/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+## 💾 Libraries & Databases
+
+<p align="center" style="display: flex; gap: 15px;">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+
 </p>
 
+---
+
+### **☁️ Cloud & Deployment**
 <p align="center">
-  <!-- Tools -->
-  <img src="https://img.icons8.com/color/48/git.png"/>
-  <img src="https://img.icons8.com/color/48/github.png"/>
-  <img src="https://img.icons8.com/color/48/docker.png"/>
-  <img src="https://img.icons8.com/color/48/postman.png"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,aws" />
 </p>
 
 
