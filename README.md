@@ -75,8 +75,13 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 - **CodeChef:** 200+ problems solved
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Joyandrew?ext=activity" alt="LeetCode Activity Card" />
+  <img src="https://leetcard.jacoblin.cool/Joyandrew?theme=dark&font=Karma" />
 </p>
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Joyandrew&theme=dark" />
+</p>
+
 
 <p align="center">
   <img src="https://hackerrank-badges.vercel.app/joyandrew006" alt="HackerRank Badge" />
