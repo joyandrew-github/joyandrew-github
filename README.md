@@ -59,7 +59,7 @@
 
 ## 👨‍💻 About Me
 
-I’m 𝐉𝐨𝐲𝐀𝐧𝐝𝐫𝐞𝐰 𝐒, an 𝐀𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 and 𝐏𝐫𝐞-𝐅𝐢𝐧𝐚𝐥 𝐘𝐞𝐚𝐫 𝐁.𝐓𝐞𝐜𝐡 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 student at 𝐒𝐫𝐢 𝐄𝐬𝐡𝐰𝐚𝐫 𝐂𝐨𝐥𝐥𝐞𝐠𝐞 𝐨𝐟 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 (𝐒𝐄𝐂𝐄), with a strong interest in learning, building scalable software solutions, and contributing to collaborative technology-driven communities.
+I’m 𝐉𝐨𝐲𝐀𝐧𝐝𝐫𝐞𝐰 𝐒, an 𝐀𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 and 𝐅𝐢𝐧𝐚𝐥 𝐘𝐞𝐚𝐫 𝐁.𝐓𝐞𝐜𝐡 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 student at 𝐒𝐫𝐢 𝐄𝐬𝐡𝐰𝐚𝐫 𝐂𝐨𝐥𝐥𝐞𝐠𝐞 𝐨𝐟 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 (𝐒𝐄𝐂𝐄), with a strong interest in learning, building scalable software solutions, and contributing to collaborative technology-driven communities.
 
 Through my academic and project experiences, I’ve enjoyed working in 𝐟𝐚𝐬𝐭-𝐩𝐚𝐜𝐞𝐝 𝐭𝐞𝐚𝐦𝐬, 𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐞𝐥𝐲, and 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐢𝐝𝐞𝐚𝐬 𝐢𝐧𝐭𝐨 𝐫𝐞𝐥𝐢𝐚𝐛𝐥𝐞 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬—from 𝐜𝐨𝐧𝐜𝐞𝐩𝐭 𝐭𝐨 𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧. I’m always eager to 𝐥𝐞𝐚𝐫𝐧, 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞, and 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐭𝐨 𝐦𝐞𝐚𝐧𝐢𝐧𝐠𝐟𝐮𝐥 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧 in technology.
 
