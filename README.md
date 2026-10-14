@@ -71,6 +71,7 @@ I believe in creating a 𝐩𝐨𝐬𝐢𝐭𝐢𝐯𝐞 𝐢𝐦𝐩𝐚𝐜�
 
 I love challenges and problem-solving! I regularly practice on **LeetCode**,**HackerRank**,**SkillRack** and **CodeChef** to stay sharp.
 
+-**Leetcode**:850+ problems solved
 - **Skillrack:** 1000+ problems solved
 - **CodeChef:** 200+ problems solved
 
@@ -220,7 +221,7 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 
 ## 🔭 Highlights
 
-- 🎥 Building **CodeCradle** — Instagram & Telegram for sharing real-time coding projects.
+- 🎥 Building **Learn with Jackie & Juli** — Instagram & Telegram for sharing tech contents, MERN Stack.
 - 🌍 Fluent in **English**, **Tamil**
 - ✨ Love **Leadership**, **organizing events**, and growing with the tech community.
 
