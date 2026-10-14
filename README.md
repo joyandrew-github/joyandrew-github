@@ -218,13 +218,13 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 
 ---
 
-## 🔭 Highlights
+### 🔭 Highlights
 
-**🎥 Building **Learn with Jackie & Juli**  
-🚀 15K+ Community | MERN Stack & Tech Content  
-🌍 Fluent in English & Tamil  
-✨ Leadership • Event Management • Tech Community
-**
+- 🎥 Building **Learn with Jackie & Juli** — a tech education platform on Instagram and Telegram.
+- 🚀 Growing a **15K+ community** through MERN Stack and tech content.
+- 🌍 Languages: English and Tamil.
+- ✨ Interests: Leadership, Event Management, and Tech Community Building.
+
 ---
 
 <p align="center">
