@@ -27,7 +27,7 @@
 
 <p align="center">
   <!-- Portfolio -->
-  <a href="https://joyandrew.live/" target="_blank">
+  <a href="https://joyandrew.vercel.app/" target="_blank">
     <img height="38"
       src="https://img.icons8.com/ios-filled/100/ffffff/domain.png"
       alt="Portfolio"/>
@@ -220,10 +220,11 @@ I love challenges and problem-solving! I regularly practice on **LeetCode**,**Ha
 
 ## 🔭 Highlights
 
-- 🎥 Building **Learn with Jackie & Juli** — Instagram & Telegram for sharing tech contents, MERN Stack.
-- 🌍 Fluent in **English**, **Tamil**
-- ✨ Love **Leadership**, **organizing events**, and growing with the tech community.
-
+**🎥 Building **Learn with Jackie & Juli**  
+🚀 15K+ Community | MERN Stack & Tech Content  
+🌍 Fluent in English & Tamil  
+✨ Leadership • Event Management • Tech Community
+**
 ---
 
 <p align="center">
