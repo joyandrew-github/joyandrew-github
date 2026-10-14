@@ -71,7 +71,6 @@ I believe in creating a 𝐩𝐨𝐬𝐢𝐭𝐢𝐯𝐞 𝐢𝐦𝐩𝐚𝐜�
 
 I love challenges and problem-solving! I regularly practice on **LeetCode**,**HackerRank**,**SkillRack** and **CodeChef** to stay sharp.
 
--**Leetcode**:850+ problems solved
 - **Skillrack:** 1000+ problems solved
 - **CodeChef:** 200+ problems solved
 
